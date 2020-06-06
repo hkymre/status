@@ -1,11 +1,9 @@
 export const config = {
-    ENDPOINT: "https://v1.nocodeapi.com/hkymre/uptime/XSEbJyiEtkMjyJHM?monitors=780558519-780558524",
+    ENDPOINT: "https://v1.nocodeapi.com/hkymre/uptime/XSEbJyiEtkMjyJHM?monitors=780087334-776777828",
 
-    title: "NoCodeAPI",
+    title: "Notgeld Monitoring",
 
-    website: "https://nocodeapi.com",
+    website: "https://edgeley.net",
 
-    twitterHandle: "@nocodeapi",
-    
-    twitterURL: "https://twitter.com/nocodeapi"
+
 }
