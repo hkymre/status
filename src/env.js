@@ -1,9 +1,11 @@
 export const config = {
-    ENDPOINT: "https://v1.nocodeapi.com/hkymre/uptime/XSEbJyiEtkMjyJHM?monitors=780087334-776777828",
+    ENDPOINT: "https://v1.nocodeapi.com/hkymre/uptime/XSEbJyiEtkMjyJHM?monitors=780558519-780558524",
 
-    title: "Notgeld Monitoring",
+    title: "Chemiteq status",
 
-    website: "https://edgeley.net",
+    website: "https://chemiteq.com",
 
-
+    twitterHandle: "@Oxylpro",
+    
+    twitterURL: "https://twitter.com/Oxylpro"
 }
